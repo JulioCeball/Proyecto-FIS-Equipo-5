@@ -1,5 +1,3 @@
-Diagrama de casos de uso https://drive.google.com/file/d/17C5I4EFbVf6JaoYxQNuaBX4dmfVuOFG2/view?usp=sharing
-
 Caso de uso 1
 
 El Usuario podrá acceder a métodos de comunicación con el dueño del negocio por medio de links.
@@ -39,3 +37,4 @@ El usuario realizará un autodiagnóstico de la falla específica que tiene su c
 4. El bot recopila los "síntomas" presentados y determina si el control presenta una o varias fallas y si son reparables.
 5. El usuario recibe retroalimentación del bot sobre su control y el diagnóstico final.
 
+Diagrama de casos de uso: https://drive.google.com/file/d/1y8gwxRnHQfgoZVcCaDSAxwuJyGo5X2Ce/view?usp=drivesdk
