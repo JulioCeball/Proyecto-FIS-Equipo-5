@@ -31,34 +31,6 @@ El usuario mirara un video para el autodiagnóstico
 
 Caso de uso 4 
 
-Al usuario se le proporcionara un autodiagnóstico mediante un Bot.
-
-1.	El usuario realizará el autodiagnóstico.
-2.	El usuario insertara caracteres para responder el autodiagnóstico.
-3.	El Bot ofrecerá (si así lo requiere) asistencia al cliente.
-4.	El Bot proporcionara respuestas al cliente si las necesita. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Caso de uso #
-
 El usuario realizará un autodiagnóstico de la falla específica que tiene su control
 
 1. Después de que el usuario haya realizado la guía de orientación para realizar su propio diagnóstico, el bot le arrojará distintas preguntas para descartar fallas.
