@@ -19,3 +19,33 @@ El usuario visualizara información sobre a qué se dedica el negocio, sus servi
 4.	El usuario seleccionara la opción de “Información de creador”.
 5.	La pagina te llevara a una pagina donde especificara quien es el creador y su experiencia.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caso de uso #
+
+El usuario realizará un autodiagnóstico de la falla específica que tiene su control
+
+1. Después de que el usuario haya realizado la guía de orientación para realizar su propio diagnóstico, el bot le arrojará distintas preguntas para descartar fallas.
+2. El usuario responde las preguntas de sí/no para descartar fallas no existentes.
+3. El bot arroja preguntas sobre "síntomas" que se reflejan de parte de concretas fallas en los controles de Xbox One.
+4. El bot recopila los "síntomas" presentados y determina si el control presenta una o varias fallas y si son reparables.
+5. El usuario recibe retroalimentación del bot sobre su control y el diagnóstico final.
+
