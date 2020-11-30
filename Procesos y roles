@@ -1,9 +1,20 @@
-Roles. 
+Roles:
 
-Product Owner/Development Team: Omar Arias Rocha
-Scrum Master/Development Team: Julian Chan Palomo
-Development Team: Efraín May Carillo, Joar Ruiz Peraza, Julio Ceballos Cauich.
+  Product Owner/Development Team: Omar Arias Rocha
+  Scrum Master/Development Team: Julian Chan Palomo
+  Development Team: Efraín May Carillo, Joar Ruiz Peraza, Julio Ceballos Cauich.
 
-Proceso
+Herramientas:
 
-Para elaborar este proyecto estamos utilizando la metodología Scrum
+  Microsoft Word, Microsoft Teams, Github.
+
+Proceso:
+
+  Para elaborar este proyecto estamos utilizando la metodología Scrum.
+  Las juntas se hacian 2 veces por semana para hacer los sprints que tardaban una semana en completarse, en las cuales se definia lo que se hará .
+
+Responsabilidades:
+
+  Product Owner: Ayudo a definir los requisitos dando los problemas que necesitariamos para guiarnos a elaborar y fundamentar los requerimientos
+  Scrum Master: Escribió todo lo que se decidia en las reuniones, ayudaba a guiar al equipo a desarrollar un BackLog y para guiar las juntas.
+  Development Team: Definieron los requerimientos, casos de uso, y too lo que está en este repositorio.
