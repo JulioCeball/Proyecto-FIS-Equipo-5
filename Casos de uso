@@ -21,6 +21,22 @@ El usuario visualizara información sobre a qué se dedica el negocio, sus servi
 4.	El usuario seleccionara la opción de “Información de creador”.
 5.	La pagina te llevara a una pagina donde especificara quien es el creador y su experiencia.
 
+Caso de uso 3
+
+El usuario mirara un video para el autodiagnóstico
+
+1.	El usuario ingresa a la página web.
+2.	El usuario reproduce el contenido multimedia.
+3.	El Bot proporcionara un autodiagnóstico al usuario respecto al video.
+
+Caso de uso 4 
+
+Al usuario se le proporcionara un autodiagnóstico mediante un Bot.
+
+1.	El usuario realizará el autodiagnóstico.
+2.	El usuario insertara caracteres para responder el autodiagnóstico.
+3.	El Bot ofrecerá (si así lo requiere) asistencia al cliente.
+4.	El Bot proporcionara respuestas al cliente si las necesita. 
 
 
 
