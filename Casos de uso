@@ -9,3 +9,11 @@ El Usuario podrá acceder a métodos de comunicación con el dueño del negocio 
 5.	El usuario es redirigido a la red social que eligió.
 6.	El usuario puede comunicarse por medio de la red social.
 
+CU. Información  
+El usuario visualizara información sobre a qué se dedica el negocio, sus servicios, un poco de cómo surgió e información del creador.
+1.	El usuario entra a la página web.
+2.	El usuario tendrá información de que se dedica el usuario en la página principal.
+3.	El usuario selecciona alguno de los botones didácticos.
+4.	El usuario seleccionara la opción de “Información de creador”.
+5.	La pagina te llevara a una pagina donde especificara quien es el creador y su experiencia.
+
