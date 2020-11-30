@@ -1,1 +1,11 @@
+Caso de uso 1
+
+El Usuario podrá acceder a métodos de comunicación con el dueño del negocio por medio de links.
+
+1.	El usuario Ingresa  la página.
+2.	El usuario se desplaza hasta el final de la página u oprime el aparto de contáctanos en el nav.
+3.	 El usuario ve imágenes de redes sociales con enlaces a las redes sociales del dueño de la empresa.
+4.	El usuario oprime alguna de las imágenes.
+5.	El usuario es redirigido a la red social que eligió.
+6.	El usuario puede comunicarse por medio de la red social.
 
