@@ -16,3 +16,8 @@ Must- Obligatorio
 Should- De alta prioridad 
 Could- Preferido pero no necesario 
 Would- Puede ser propuesto para el futuro
+
+ACTUALIZACIÓN DE REQUERIMENTOS 23/01
+NO FUNCIONALES:
+-Que el bot tenga respuestas "buena onda" o agradables para que el usuario final al interactuar con él, no lo sienta agobiante o simplemente no quiera hablar con el.
+-Que el bot tenga muchisimos flujos pero que estos sean cortos ya que la gente no lee mucha información porque le da flojera o piensa que es un copy-paste.
